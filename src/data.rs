@@ -16,4 +16,3 @@ pub struct Data {
     pub time: String,
     pub value: String,
 }
-
